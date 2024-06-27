@@ -1,3 +1,9 @@
+# Chat喵喵喵
+以ChatGLM2-6B为原型Finetune的模型：
+1. 大多数回答会在末尾加上”瞄“
+2. 任何叫声都会变成“喵喵喵”
+3. 以及其他神奇的小玩意
+
 # ChatGLM2-6B
 
 <p align="center">
